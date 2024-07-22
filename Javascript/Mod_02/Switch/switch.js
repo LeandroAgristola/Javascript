@@ -23,3 +23,5 @@ switch(expr){
 //Cuando encuentra la coincidencia con "Manzana", ejecuta console.log("los primeros humanos pecaron comiendola") y luego sale del switch debido al break.
 
 //Para analizar cosas muy complejas (menor rendimiento)
+
+//Probamos git

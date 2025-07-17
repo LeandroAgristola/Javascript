@@ -1,5 +1,5 @@
 let cantidad = prompt("cuantos alumnnos son?"); //solicitamos ingreso de datos que se guardan en la variable "cantidad"
-let alumnosTotales = []; //creamos aun array sin ponerle balores []
+let alumnosTotales = []; //creamos aun array sin ponerle valores []
 
 /* carga de nombres de los alumnos */
 for (i = 0; i < cantidad; i++) { //i representa la posicion y repetimos cuando la posicion es menor a la cantidad
